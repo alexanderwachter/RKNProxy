@@ -21,10 +21,13 @@ The `assignment.png` shows an overview and is used as a simple archive of https:
 ## TODO:
 - SOP is not really bypassed, it's just deactivated.
 - SSLStrip is not implemented
-- JavaScript sources and Plugins needs to be updated
+- JavaScript sources and Plugins need to be updated
 
 ## General Information:
 - This project is just for educational purpose, it's far from perfect
 - There is no active development
 - We do not gurantee that JS files will stay @ http://xn--4ca0b.eu/ forever.
 - Patches are welcome!
+
+## Contact:
+- For general questions or anonymous patches conntact <office -at- crap.solutions>
