@@ -30,4 +30,4 @@ The `assignment.png` shows an overview and is used as a simple archive of https:
 - Patches are welcome!
 
 ## Contact:
-- For general questions or anonymous patches conntact <office -at- crap.solutions>
+- For general questions or anonymous patches contact `office -at- crap.solutions`
