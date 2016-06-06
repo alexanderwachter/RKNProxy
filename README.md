@@ -1,4 +1,4 @@
-# RKN2016Proxy
+# RKNProxy
 MITM Proxy for Computer and Communication Networks written in Java
 
 The `assignment.png` shows an overview and is used as a simple archive of https://teaching.iaik.tugraz.at/rkn/assignments/task2
