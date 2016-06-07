@@ -1,7 +1,7 @@
 # RKNProxy
 MITM Proxy for Computer and Communication Networks written in Java
 
-The `assignment.png` shows an overview and is used as a simple archive of https://teaching.iaik.tugraz.at/rkn/assignments/task2
+http://archive.is/7uVgC shows an overview and is a simple archive of https://teaching.iaik.tugraz.at/rkn/assignments/task2
 
 ## Features:
 - JS Keylogger
