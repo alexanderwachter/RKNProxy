@@ -26,7 +26,7 @@ http://archive.is/7uVgC shows an overview and is a simple archive of https://tea
 ## General Information:
 - This project is just for educational purpose, it's far from perfect
 - There is no active development
-- We do not gurantee that JS files will stay @ http://xn--4ca0b.eu/ forever.
+- ~~We do not gurantee that JS files will stay @ http://xn--4ca0b.eu/ forever.~~ JS files are not hosted by us anymore.
 - Patches are welcome!
 
 ## Contact:
